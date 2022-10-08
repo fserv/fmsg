@@ -1,0 +1,2 @@
+# fmsg
+Fast ephemeral messaging
